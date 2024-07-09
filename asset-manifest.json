@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Growth_Calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/Growth_Calculator/static/js/main.79df6db4.js",
+    "static/media/otech_logo.webp": "/Growth_Calculator/static/media/otech_logo.5d35bf6567fc2af65c15.webp",
+    "index.html": "/Growth_Calculator/index.html",
+    "main.e6c13ad2.css.map": "/Growth_Calculator/static/css/main.e6c13ad2.css.map",
+    "main.79df6db4.js.map": "/Growth_Calculator/static/js/main.79df6db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.79df6db4.js"
+  ]
+}
